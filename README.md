@@ -1,1 +1,1 @@
-# eazybytes-config
+# tarun-stk-config
